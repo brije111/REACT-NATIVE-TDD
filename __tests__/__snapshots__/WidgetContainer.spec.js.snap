@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WidgetContainer should match with the snapshot 1`] = `
+<View>
+  <Text>
+    Hello, 
+    Hello World
+    !
+  </Text>
+</View>
+`;
